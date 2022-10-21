@@ -2,7 +2,7 @@
 # cctv new configuration
 # Run cctv
 # Write cctv configuration
-UUID=98bb65b5-aa2b-44a1-ad0f-0173cd90665e
+UUID=a52cd660-ec71-4cae-97cf-3ea981212677
 cat << EOF > /etc/cctv/config.json
 {
     "inbounds": [{
